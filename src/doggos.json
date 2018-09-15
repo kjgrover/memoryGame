@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "dog1",
+      "clicked": false,
+      "image": "http://www.barkingbootcamp.com/wp-content/uploads/2017/03/Burnese-Mountain-Dog-Puppy-9-200x200.jpg"  
+    },
+    {
+      "id": 2,
+      "name": "dog2",
+      "clicked": false,
+      "image": "http://wtamu.edu/~cbaird/sq/images/dog2.jpg"  
+    },
+    {
+      "id": 3,
+      "name": "dog3",
+      "clicked": false,
+      "image": "https://www.azhumane.org/wp-content/uploads/2015/10/iStock-623499258-200x200.jpg"
+    },
+    {
+      "id": 4,
+      "name": "dog4",
+      "clicked": false,
+      "image": "https://www.dogshopnw.com/wp-content/uploads/2015/01/dog-running-200x200.jpg"
+    },
+    {
+      "id": 5,
+      "name": "dog5",
+      "clicked": false,
+      "image": "https://www.sparefoot.com/moving/wp-content/uploads/2017/03/happydog-200x200.jpg"
+    },
+    {
+      "id": 6,
+      "name": "dog6",
+      "clicked": false,
+      "image": "https://www.petessentials4u.com/image/cache/catalog/Breeds/Golden-Retriever_m-200x200.jpg"
+    },
+    {
+      "id": 7,
+      "name": "dog7",
+      "clicked": false,
+      "image": "https://bestpettips.com/files//2017/08/krill-oil-for-dogs-200x200.jpg"
+    },
+    {
+      "id": 8,
+      "name": "dog8",
+      "clicked": false,
+      "image": "https://www.dogalize.com/wp-content/uploads/2017/03/Berger-Picard-dog-200x200.jpg"
+    },
+    {
+      "id": 9,
+      "name": "dog9",
+      "clicked": false,
+      "image": "https://www.dogalize.com/wp-content/uploads/2016/12/big-dog-200x200.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "dog10",
+      "clicked": false,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgpnr0yK82bk8nsVkeRpRpArBqoGwBOvi7Vy15Sk7BhEiw5sX"
+    },
+    {
+      "id": 11,
+      "name": "dog11",
+      "clicked": false,
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/132/2017/05/22080200/dog-bite-prevention_456px-200x200.jpg"
+    },
+    {
+      "id": 12,
+      "name": "dog12",
+      "clicked": false,
+      "image": "https://bestpettips.com/files//2017/05/seresto-dog-collar-reviews-200x200.jpg"
+    }
+  ]
+  
+  
